@@ -57,3 +57,12 @@ input[type=checkbox] {
 .footer-section{
   background-color:#D6F2FF4D ;  
 }
+
+/* @media (min-width:320px)  {
+    .page{
+        padding-right: 0;
+        padding-left: 0;
+        margin-left: 2rem;
+        margin-right: 0;
+    }
+} */
